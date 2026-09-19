@@ -49,6 +49,11 @@ Segundo a PRF, dados abertos são disponibilizados em formato legível por máqu
 
 A PRF disponibiliza também um dicionário oficial das variáveis da base de acidentes, contendo a descrição dos campos utilizados nos registros agrupados por ocorrência.
 
+### Referências
+
+- [Portal de Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+- [Dicionário de dados de acidentes da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dicionario-acidentes)
+
 ## Carga dos Dados
 
 Esta seção será preenchida após a ingestão dos arquivos no Databricks.
