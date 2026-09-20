@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto foi desenvolvido como MVP da pós-graduação em Ciência de Dados e Analytics, com foco em Engenharia de Dados.
+Este projeto foi desenvolvido como MVP da pós-graduação em Ciência de Dados e Analytics no modulo de Engenharia de Dados.
 
 O trabalho utiliza dados abertos da Polícia Rodoviária Federal (PRF) referentes a acidentes ocorridos em rodovias federais brasileiras entre 2021 e 2025. O objetivo é construir um pipeline de dados em nuvem, desde a ingestão dos arquivos brutos até a criação de uma camada analítica modelada para responder a perguntas de negócio.
 
